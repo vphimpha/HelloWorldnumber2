@@ -86,9 +86,13 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="491" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1583365282654" />
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1583365952440">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1583366018694">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583365952440" />
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583366018694" />
+    <state x="232" y="77" key="Vcs.Push.Dialog.v2" timestamp="1583366029369">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="232" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1583366029369" />
   </component>
 </project>
